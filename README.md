@@ -19,4 +19,4 @@ Baranenko (ganna1008) <br> **Animation + svg optimization** - Maksym Fito
 
 P.S.: This project is a modified clone of the original Phoenix7778 repository.
 
-<img src="https://i.ibb.co/dJ2hkTN/pixabay-js.jpg" alt="pixabay-js" border="0">
+<img src="https://i.ibb.co/tPZzYRj/2023-02-12-20-17-17.png" alt="pixabay-js" border="0">
